@@ -56,7 +56,7 @@
     "react-dom": ">=18"
   },
   "dependencies": {
-    "@air-conditioner/core": "workspace:*",
+    "@yunlefun-home/air-conditioner-core": "workspace:*",
     "react-ga": "catalog:",
     "react-gtm-module": "catalog:",
     "react-router-dom": "catalog:",
@@ -73,6 +73,7 @@
     "@types/react-dom": "catalog:",
     "@types/react-gtm-module": "catalog:",
     "@types/react-router-dom": "catalog:",
+    "@unocss/reset": "catalog:",
     "@vitejs/plugin-react": "catalog:",
     "react": "catalog:",
     "react-dom": "catalog:",
